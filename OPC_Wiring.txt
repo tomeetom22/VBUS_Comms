@@ -5,6 +5,8 @@ OPC SDI - Blue   -> WisBlock breakout MOSI/SDI
 OPC SDO - White  -> WisBlock breakout MISO/SDO
 OPC SCK - Yellow -> WisBlock breakout SCK
 
+
+// Harness from N3
 GND - Black
 5V+ - Red
 SS  - Green
