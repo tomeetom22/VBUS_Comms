@@ -1,0 +1,13 @@
+OPC GND - Black  -> power supply GND and WisBlock GND
+OPC 5V+ - Red    -> separate 5V power supply
+OPC SS  - Green  -> WisBlock breakout CS
+OPC SDI - Blue   -> WisBlock breakout MOSI/SDI
+OPC SDO - White  -> WisBlock breakout MISO/SDO
+OPC SCK - Yellow -> WisBlock breakout SCK
+
+GND - Black
+5V+ - Red
+SS  - Green
+SDI - Blue
+SDO - White
+SCK - Yellow
